@@ -24,8 +24,7 @@ A straightforward list of choices for operating the program will be prompted at 
 
 # Developers 
 David Joshua Adriano<br />
-https://www.github.com/dashadriano<br />
-<br />
+Kenneth Gray Soliva<br />
 
 # Documentation
 Project's IMRAD Paper:<br /> 
